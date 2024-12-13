@@ -27,11 +27,4 @@ The analysis explores whether the GARCH(1,1) model effectively captures the dyna
 2. Open `Garch.ipynb` in Jupyter Notebook to explore the analysis.
 3. Refer to `Report.pdf` for a detailed project summary.
 
-## Requirements
-- Python 3.x
-- Libraries: `numpy`, `pandas`, `matplotlib`, `scipy`, `yfinance`
-- Jupyter Notebook for interactive exploration.
-
-## Acknowledgments
-This project was developed as part of a university course on financial econometrics. Special thanks to the instructors for their guidance.
 
