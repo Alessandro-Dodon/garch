@@ -18,13 +18,3 @@ The analysis explores whether the GARCH(1,1) model effectively captures the dyna
 
 ### `Report.pdf`
 - **Description:** A comprehensive summary of the project, covering objectives, theoretical background, results, and conclusions.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   ```
-2. Open `Garch.ipynb` in Jupyter Notebook to explore the analysis.
-3. Refer to `Report.pdf` for a detailed project summary.
-
-
