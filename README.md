@@ -4,7 +4,7 @@
 This repository contains a university project that examines the suitability of the GARCH(1,1) model for SP500 daily returns. The project includes parameter estimation, volatility modeling, confidence interval simulation, and model validation.
 
 ## Project Details
-The analysis explores whether the GARCH(1,1) model effectively captures the dynamics of SP500 returns, accounting for heavy tails using both normal and Student's t-distributions. Key steps include:
+The analysis explores whether the GARCH(1,1) model effectively captures the dynamics of SP500 returns, using both normal and Student's t-distributions. Key steps include:
 
 1. **Data Collection:** 15 years of daily SP500 data downloaded from Yahoo Finance.
 2. **Model Implementation:** A custom GARCH(1,1) model built without relying on built-in Python functions.
