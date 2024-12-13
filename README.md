@@ -1,6 +1,4 @@
 # GARCH Model for SP500 Daily Returns
-
-## Overview
 This repository contains a university project that examines the suitability of the GARCH(1,1) model for SP500 daily returns. 
 
 ## Project Details
