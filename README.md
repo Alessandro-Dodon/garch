@@ -14,4 +14,4 @@ The analysis explores whether the GARCH(1,1) model effectively captures the dyna
 - Contains the full analysis, including data processing, GARCH model implementation, parameter estimation, and validation steps.
 
 ### `Report.pdf`
- A comprehensive summary of the project, covering objectives, theoretical background, results, and conclusions.
+- A comprehensive summary of the project, covering objectives, theoretical background, results, and conclusions.
