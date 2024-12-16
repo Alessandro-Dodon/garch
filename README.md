@@ -11,7 +11,7 @@ The analysis explores whether the GARCH(1,1) model effectively captures the dyna
 
 ## Files
 ### `Garch.ipynb`
-- **Description:** Contains the full analysis, including data processing, GARCH model implementation, parameter estimation, and validation steps.
+- Contains the full analysis, including data processing, GARCH model implementation, parameter estimation, and validation steps.
 
 ### `Report.pdf`
-- **Description:** A comprehensive summary of the project, covering objectives, theoretical background, results, and conclusions.
+ A comprehensive summary of the project, covering objectives, theoretical background, results, and conclusions.
