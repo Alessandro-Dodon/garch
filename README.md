@@ -1,5 +1,5 @@
 # GARCH Model for SP500 Daily Returns
-This repository contains a university project that examines the suitability of the GARCH(1,1) model for SP500 daily returns. 
+This repository contains a university group project that examines the suitability of the GARCH(1,1) model for SP500 daily returns. 
 
 ## Overview
 The analysis explores whether the GARCH(1,1) model effectively captures the dynamics of SP500 returns, using both normal and Student's t-distributions. Key steps include:
@@ -11,7 +11,7 @@ The analysis explores whether the GARCH(1,1) model effectively captures the dyna
 
 ## Files
 ### `Garch.ipynb`
-- **Description:** Contains the full analysis, including data processing, GARCH model implementation, parameter estimation, and validation steps.
+- Contains the full analysis, including data processing, GARCH model implementation, parameter estimation, and validation steps.
 
 ### `Report.pdf`
-- **Description:** A comprehensive summary of the project, covering objectives, theoretical background, results, and conclusions.
+- A comprehensive summary of the project, covering objectives, theoretical background, results, and conclusions.
