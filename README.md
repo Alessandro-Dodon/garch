@@ -18,7 +18,7 @@ The analysis explores whether the GARCH(1,1) model effectively captures the dyna
 
 ## User Guide
 
-The user guide is detailed in the Report.pdf file, but the process is very straightforward. Open the Garch.ipynb notebook and use the "Run All" option to execute the analysis. Make sure Python is installed, along with a compatible environment for running Jupyter notebooks, such as VS Code or Anaconda.
+The user guide is detailed in the `Report.pdf` file, but the process is very straightforward. Open the Garch.ipynb notebook and use the "Run All" option to execute the analysis. Make sure Python is installed, along with a compatible environment for running Jupyter notebooks, such as VS Code or Anaconda.
 
-All required libraries can be installed by removing the # at the beginning of the pip install commands in the notebook. The SP500 data is downloaded automatically from Yahoo Finance during execution, so no manual data preparation is needed.
+All required libraries can be installed by removing the # at the beginning of the pip install commands in the notebook. The SP 500 data is downloaded automatically from Yahoo Finance during execution, so no manual data preparation is needed.
 
