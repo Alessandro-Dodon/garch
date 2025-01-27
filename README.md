@@ -17,7 +17,7 @@ The analysis explores whether the GARCH(1,1) model effectively captures the dyna
 
 ## Results Example
 
-Below is an example of the results. The image shows Confidence Intervals and Violation Rates for the T-GARCH model:
+Below is an example of the results. The image shows Confidence Intervals and Violation Rates for the T-GARCH model. For further details and insights, please refer to the report and notebooks.
 
 ![T-GARCH Results](T-Garch.png)
 
