@@ -15,6 +15,12 @@ The analysis explores whether the GARCH(1,1) model effectively captures the dyna
 
 **`Report.pdf`** A comprehensive summary of the project, covering objectives, theoretical background, results, and conclusions.
 
+## Results Example
+
+Below is an example of the results. The image shows Confidence Intervals and Violation Rates for a T-GARCH model:
+
+![T-GARCH Results](T-Garch.png)
+
 ## User Guide
 
 The user guide is detailed in the `Report.pdf` file, but the process is very straightforward. Open the `Garch.ipynb` notebook and use the "Run All" option to execute the analysis. Make sure Python is installed, along with a compatible environment for running Jupyter notebooks, such as VS Code or Anaconda.
