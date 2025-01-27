@@ -11,11 +11,9 @@ The analysis explores whether the GARCH(1,1) model effectively captures the dyna
 - **Validation:** The frequency of actual returns violating these intervals is evaluated and visualized.
 
 ## Files
-### `Garch.ipynb`
-- Contains the full analysis, including data processing, GARCH model implementation, parameter estimation, and validation steps.
+**`Garch.ipynb`**: Contains the full analysis, including data processing, GARCH model implementation, parameter estimation, and validation steps.
 
-### `Report.pdf`
-- A comprehensive summary of the project, covering objectives, theoretical background, results, and conclusions.
+**`Report.pdf`**: A comprehensive summary of the project, covering objectives, theoretical background, results, and conclusions.
 
 ## User Guide
 
