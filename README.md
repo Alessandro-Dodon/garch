@@ -27,6 +27,23 @@ The user guide is detailed in the `Report.pdf` file, but the process is very str
 
 All required libraries can be installed by removing the # at the beginning of the pip install commands in the notebook. The SP 500 data is downloaded automatically from Yahoo Finance during execution, so no manual data preparation is needed.
 
+## User Guide
+
+1. **Documentation**:
+   - A detailed user guide is also available in `Report.pdf`.
+
+2. **Setup**:
+   - Ensure Python is installed along with a Jupyter-compatible environment (e.g., VS Code, Anaconda).
+
+3. **Execution**:
+   - Open the `Garch.ipynb` notebook and select "Run All" to execute the analysis.
+   - The S&P 500 data is downloaded automatically from Yahoo Finance during execution, so no manual data preparation is needed.
+   - An **internet connection** is required to fetch data from Yahoo Finance.
+
+4. **Packages**:
+   - All required libraries are included in the notebook with `pip install` commands.
+   - If any packages are missing, install them by removing the `#` at the beginning of the respective `pip install` lines in the notebook and running the cell.
+
 ## Contacts
 For any clarifications, questions, or to report issues with the code, feel free to reach out via email at alessandro.dodon@usi.ch. You can also find my LinkedIn link in my GitHub bio.
 
