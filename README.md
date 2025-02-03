@@ -27,3 +27,7 @@ The user guide is detailed in the `Report.pdf` file, but the process is very str
 
 All required libraries can be installed by removing the # at the beginning of the pip install commands in the notebook. The SP 500 data is downloaded automatically from Yahoo Finance during execution, so no manual data preparation is needed.
 
+## Contacts
+For any clarifications, questions, or to report issues with the code, feel free to reach out via email at alessandro.dodon@usi.ch. You can also find my LinkedIn link in my GitHub bio.
+
+
