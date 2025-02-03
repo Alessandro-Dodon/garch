@@ -1,4 +1,4 @@
-# GARCH Model for SP500 Daily Returns
+# GARCH Models for SP500 Daily Returns
 This repository contains a university group project that examines the suitability of the GARCH(1,1) model for SP500 daily returns. 
 > **Note:** The code is being updated to include calculations for Value at Risk (VAR), Expected Shortfall (ES), and Monte Carlo simulations.
 
