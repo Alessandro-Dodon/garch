@@ -23,18 +23,17 @@ Below is an example of the results. The image shows confidence intervals and vio
 
 ## User Guide
 
-1. **Documentation**:
-   - A detailed user guide is also available in `Report.pdf`.
+A detailed user guide is also available in `Report.pdf`. The process is anyway very straightforward.
 
-2. **Setup**:
+1. **Setup**:
    - Ensure Python is installed along with a Jupyter-compatible environment (e.g., VS Code, Anaconda).
 
-3. **Execution**:
+2. **Execution**:
    - Open the `Garch.ipynb` notebook and select "Run All" to execute the analysis.
    - The S&P 500 data is downloaded automatically from Yahoo Finance during execution, so no manual data preparation is needed.
    - Note that **internet connection** is required to fetch data from Yahoo Finance.
 
-4. **Packages**:
+3. **Packages**:
    - All required libraries are included in the notebook with `pip install` commands.
    - If any packages are missing, install them by removing the `#` at the beginning of the respective `pip install` lines in the notebook and running the cell.
 
