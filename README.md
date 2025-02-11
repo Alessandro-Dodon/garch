@@ -26,7 +26,7 @@ Below is an example of the results. The image shows confidence intervals and vio
 
 ## User Guide
 
-A detailed user guide is also available in `Report.pdf`. The process is anyway very straightforward.
+A detailed user guide is available in `Report.pdf` for more information.. The process is anyway very straightforward.
 
 1. **Setup**:
    - Ensure Python is installed along with a Jupyter-compatible environment (e.g., VS Code, Anaconda).
