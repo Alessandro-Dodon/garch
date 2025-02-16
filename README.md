@@ -25,7 +25,7 @@ Two additional self-contained notebooks provide practical applications of GARCH 
 
 The plot below illustrates the VaR and ES estimates, along with the observed violations for the period from November 2019 to November 2020. For more insights, refer to the report and notebooks.
 
-![VarandES](VarandES.png)
+![VaRandES](VaRandES.png)
 
 ## User Guide
 
