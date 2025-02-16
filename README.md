@@ -15,21 +15,21 @@ Two additional self-contained notebooks provide practical applications of GARCH 
 
 ## Files
 
-- **`Garch.ipynb`**: The primary notebook containing the full analysis, model implementation, parameter estimation, and validation. This notebook corresponds to the accompanying **`Report.pdf`**, which summarizes the project’s objectives, theoretical background, results, and conclusions.  
+**`Garch.ipynb`** The primary notebook containing the full analysis, model implementation, parameter estimation, and validation. This notebook corresponds to the accompanying **`Report.pdf`**, which summarizes the project’s objectives, theoretical background, results, and conclusions.  
 
-- **`VaR.ipynb`**: A self-contained notebook applying GARCH models to calculate Value-at-Risk (VaR) and Expected Shortfall (ES), with relevant theoretical background and implementation.  
+**`VaR.ipynb`** A self-contained notebook applying GARCH models to calculate Value-at-Risk (VaR) and Expected Shortfall (ES), with relevant theoretical background and implementation.  
 
-- **`MonteCarloGarch.ipynb`**: Another standalone notebook that uses Monte Carlo simulations to investigate the statistical properties and behavior of GARCH models.  
+**`MonteCarloGarch.ipynb`** Another standalone notebook that uses Monte Carlo simulations to investigate the statistical properties and behavior of GARCH models.  
 
 ## Results Example
 
 The plot below illustrates the VaR and ES estimates, along with the observed violations for the period from November 2019 to November 2020. For more insights, refer to the report and notebooks.
 
-![VarandES](VarandES.png)
+![VaRandES](VaRandES.png)
 
 ## User Guide
 
-A detailed user guide for the primary project is available in **`Report.pdf`**. The other two notebooks are self-contained with instructions included within. The process is straightforward, with examples provided.
+A detailed user guide for the primary project is available in **`Report.pdf`**. The other two notebooks are self-contained with instructions included within. The process is anyway very straightforward.
 
 1. **Setup**:
    - Ensure Python is installed along with a Jupyter-compatible environment (e.g., VS Code, Anaconda).  
@@ -41,8 +41,8 @@ A detailed user guide for the primary project is available in **`Report.pdf`**. 
 
 3. **Packages**:
    - All required libraries are listed in the notebooks with corresponding `pip install` commands.  
-   - If any packages are missing, simply remove the `#` from the `pip install` lines and run the cell.  
-
+   - If any packages are missing, simply remove the `#` from the `pip install` lines and run the cell.
+     
 ## Contacts
 
 For any clarifications, questions, or to report issues with the code, feel free to reach out via email at alessandro.dodon@usi.ch. You can also find my LinkedIn profile in my GitHub bio.
