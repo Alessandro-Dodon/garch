@@ -15,11 +15,11 @@ Two additional self-contained notebooks provide practical applications of GARCH 
 
 ## Files
 
-- **`Garch.ipynb`** The primary notebook containing the full analysis, model implementation, parameter estimation, and validation. This notebook corresponds to the accompanying **`Report.pdf`**, which summarizes the project’s objectives, theoretical background, results, and conclusions.  
+**`Garch.ipynb`** The primary notebook containing the full analysis, model implementation, parameter estimation, and validation. This notebook corresponds to the accompanying **`Report.pdf`**, which summarizes the project’s objectives, theoretical background, results, and conclusions.  
 
-- **`VaR.ipynb`** A self-contained notebook applying GARCH models to calculate Value-at-Risk (VaR) and Expected Shortfall (ES), with relevant theoretical background and implementation.  
+**`VaR.ipynb`** A self-contained notebook applying GARCH models to calculate Value-at-Risk (VaR) and Expected Shortfall (ES), with relevant theoretical background and implementation.  
 
-- **`MonteCarloGarch.ipynb`** Another standalone notebook that uses Monte Carlo simulations to investigate the statistical properties and behavior of GARCH models.  
+**`MonteCarloGarch.ipynb`** Another standalone notebook that uses Monte Carlo simulations to investigate the statistical properties and behavior of GARCH models.  
 
 ## Results Example
 
