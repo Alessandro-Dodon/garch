@@ -11,7 +11,7 @@ The primary analysis examines whether the GARCH(1,1) model effectively captures 
 - **Confidence Interval Simulation:** Using estimated parameters, 95% confidence intervals are simulated for a 30-day prediction horizon.  
 - **Validation:** The frequency of actual returns violating these intervals is evaluated and visualized.  
 
-Two additional self-contained notebooks provide practical applications of GARCH models, focusing on Monte Carlo simulations and Value-at-Risk (VaR) estimation.
+Two additional self-contained notebooks provide further insights into GARCH models, focusing on Monte Carlo simulations and Value-at-Risk (VaR) estimation.
 
 ## Files
 
