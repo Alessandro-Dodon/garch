@@ -41,7 +41,7 @@ A detailed user guide for the primary project is available in **`Report.pdf`**. 
 
 3. **Packages**:
    - All required libraries are listed in the notebooks with corresponding `pip install` commands.  
-   - If any packages are missing, simply remove the `#` from the `pip install` lines and run the cell to install them.
+   - If any packages are missing, simply remove the `#` from the `pip install` lines and run the cell.
      
 ## Contacts
 
