@@ -29,7 +29,7 @@ The plot below illustrates the VaR and ES estimates, along with the observed vio
 
 ## User Guide
 
-A detailed user guide for the primary project is available in **`Report.pdf`**. The other two notebooks are self-contained with instructions included within. The process is straightforward.
+A detailed user guide for the primary project is available in **`Report.pdf`**. The other two notebooks are self-contained with instructions included within. The process is anyway very straightforward.
 
 1. **Setup**:
    - Ensure Python is installed along with a Jupyter-compatible environment (e.g., VS Code, Anaconda).  
