@@ -29,7 +29,7 @@ The plot below illustrates the VaR and ES estimates, along with the observed vio
 
 ## User Guide
 
-A detailed user guide for the primary project is available in **`Report.pdf`**. The other two notebooks are self-contained with instructions included within. The process is straightforward, with examples provided.
+A detailed user guide for the primary project is available in **`Report.pdf`**. The other two notebooks are self-contained with instructions included within. The process is straightforward.
 
 1. **Setup**:
    - Ensure Python is installed along with a Jupyter-compatible environment (e.g., VS Code, Anaconda).  
@@ -41,8 +41,8 @@ A detailed user guide for the primary project is available in **`Report.pdf`**. 
 
 3. **Packages**:
    - All required libraries are listed in the notebooks with corresponding `pip install` commands.  
-   - If any packages are missing, simply remove the `#` from the `pip install` lines and run the cell.  
-
+   - If any packages are missing, simply remove the `#` from the `pip install` lines and run the cell to install them.
+     
 ## Contacts
 
 For any clarifications, questions, or to report issues with the code, feel free to reach out via email at alessandro.dodon@usi.ch. You can also find my LinkedIn profile in my GitHub bio.
