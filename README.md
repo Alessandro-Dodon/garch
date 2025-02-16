@@ -43,6 +43,6 @@ A detailed user guide for the primary project is available in **`Report.pdf`**. 
    - All required libraries are listed in the notebooks with corresponding `pip install` commands.  
    - If any packages are missing, simply remove the `#` from the `pip install` lines and run the cell.  
 
-## Contact
+## Contacts
 
 For any clarifications, questions, or to report issues with the code, feel free to reach out via email at alessandro.dodon@usi.ch. You can also find my LinkedIn profile in my GitHub bio.
