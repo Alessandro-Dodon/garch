@@ -31,9 +31,16 @@ The plot below illustrates the VaR and ES estimates, along with the observed vio
 
 A detailed user guide for the primary project is available in **`Report.pdf`**. The other two notebooks are self-contained with instructions included within. The process is anyway very straightforward.
 
-1. **Setup**:
-   - Ensure Python is installed along with a Jupyter-compatible environment (e.g., VS Code, Anaconda).  
-
+1. **Setup**:  
+   - Clone the repository (Recommended):  
+     ```bash
+     git clone https://github.com/Alessandro-Dodon/Garch.git
+     cd Garch
+     ```
+   - Download as ZIP (Alternative):  
+     Click the **"Code"** button (green) at the top of the repository page, select **"Download ZIP"**, extract the files, and place them in your working directory.  
+   - Ensure Python is installed along with a Jupyter-compatible environment (e.g., VS Code, Anaconda).
+   
 2. **Execution**:
    - Open the desired notebook and select "Run All" to execute the analysis.  
    - The S&P 500 data is downloaded automatically from Yahoo Finance during execution, so no manual data preparation is needed.  
