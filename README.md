@@ -17,7 +17,7 @@ Two additional self-contained notebooks provide further insights into GARCH mode
 
 **`garch.ipynb`** The primary notebook containing the full analysis, model implementation, parameter estimation, and validation. This notebook corresponds to the accompanying **`report.pdf`**, which summarizes the project’s objectives, theoretical background, results, and conclusions.  
 
-**`var.ipynb`** A self-contained notebook applying GARCH models to calculate Value-at-Risk (VaR) and Expected Shortfall (ES), with relevant theoretical background and implementation.  
+**`value_at_risk.ipynb`** A self-contained notebook applying GARCH models to calculate Value-at-Risk (VaR) and Expected Shortfall (ES), with relevant theoretical background and implementation.  
 
 **`monte_carlo_garch.ipynb`** Another standalone notebook that uses Monte Carlo simulations to investigate the statistical properties and behavior of GARCH models.  
 
