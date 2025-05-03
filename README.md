@@ -25,7 +25,7 @@ Two additional self-contained notebooks provide further insights into GARCH mode
 
 The plot below illustrates the VaR and ES estimates, along with the observed violations for the period from November 2019 to November 2020. For more insights, refer to the report and notebooks.
 
-![VaRandES](VaRandES.png)
+![VaRandES](var_and_es.png)
 
 ## User Guide
 
