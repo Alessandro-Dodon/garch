@@ -23,7 +23,7 @@ Two additional self-contained notebooks provide further insights into GARCH mode
 
 ## Results Example
 
-The figure below illustrates the outcome of the first Monte Carlo experiment, comparing the distributions of the standardized GARCH(1,1) process, the S&P 500 returns, and the standard normal distribution.
+The figure below illustrates the outcome of the first Monte Carlo experiment, comparing the distributions of the GARCH(1,1) process, the S&P 500 returns, and the standard normal distribution.
 ![Example](histogram_garch_sp500.png)
 
 ## User Guide
