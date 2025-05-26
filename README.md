@@ -21,12 +21,6 @@ Two additional self-contained notebooks provide further insights into GARCH mode
 
 **`monte_carlo_garch.ipynb`** Another standalone notebook that uses Monte Carlo simulations to investigate the statistical properties and behavior of GARCH models.  
 
-## Results Example
-
-The plot below illustrates the VaR and ES estimates, along with the observed violations for the period from November 2019 to November 2020. For more insights, refer to the report and notebooks.
-
-![VaRandES](var_and_es.png)
-
 ## User Guide
 
 A detailed user guide for the primary project is available in **`report.pdf`**. The other two notebooks are self-contained with instructions included within. The process is anyway very straightforward.
