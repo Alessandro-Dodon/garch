@@ -21,6 +21,11 @@ Two additional self-contained notebooks provide further insights into GARCH mode
 
 **`monte_carlo_garch.ipynb`** Another standalone notebook that uses Monte Carlo simulations to investigate the statistical properties and behavior of GARCH models.  
 
+## Results Example
+
+The figure below illustrates the outcome of the first Monte Carlo experiment, comparing the distributions of the standardized GARCH(1,1) process, the S&P 500 returns, and the standard normal distribution.
+![Example](histogram_garch_sp500.png)
+
 ## User Guide
 
 A detailed user guide for the primary project is available in **`report.pdf`**. The other two notebooks are self-contained with instructions included within. The process is anyway very straightforward.
