@@ -34,8 +34,8 @@ A detailed user guide for the primary project is available in **`report.pdf`**. 
 1. **Setup**:  
    - Clone the repository (Recommended):  
      ```bash
-     git clone https://github.com/Alessandro-Dodon/Garch.git
-     cd Garch
+     git clone https://github.com/Alessandro-Dodon/garch.git
+     cd garch
      ```
    - Download as ZIP (Alternative):  
      Click the **"Code"** button (green) at the top of the repository page, select **"Download ZIP"**, extract the files, and place them in your working directory.  
